@@ -1,2 +1,2 @@
 # new project
-this project created by me
+this project created by me.
